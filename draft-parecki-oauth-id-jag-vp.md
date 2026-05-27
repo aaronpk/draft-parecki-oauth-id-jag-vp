@@ -23,7 +23,7 @@ venue:
   type: "Working Group"
   mail: "oauth@ietf.org"
   arch: "https://mailarchive.ietf.org/arch/browse/oauth/"
-  github: "oauth-wg/oauth-identity-assertion-authz-grant"
+  github: "aaronpk/draft-parecki-oauth-id-jag-vp"
 
 author:
  -
